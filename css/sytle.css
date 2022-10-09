@@ -1,0 +1,37 @@
+.header {
+  background-color: lightgrey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list-links {
+  display: flex;
+  list-style: none;
+  column-gap: 20px;
+}
+
+.logo {
+  width: 115px;
+  height: 25px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  padding: 12px 32px;
+  border-radius: 9999px;
+}
+
+.cover {
+  display: flex;
+
+}
+
+.image-office {
+  width: 55%;
+}
